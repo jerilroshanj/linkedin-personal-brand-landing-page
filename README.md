@@ -55,3 +55,6 @@ https://website-antany.vercel.app/
 ## 📌 Note
 
 This is a concept/demo project. The branding, statistics, testimonials, and business information used in the design are for demonstration purposes.
+<img width="1901" height="921" alt="image" src="https://github.com/user-attachments/assets/92291579-5c31-4ed8-8a7c-e0208b3a9b19" />
+<img width="1806" height="845" alt="image" src="https://github.com/user-attachments/assets/da8d236f-3e92-4b79-8b8c-af938b92e456" />
+
